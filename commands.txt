@@ -1,0 +1,12 @@
+   +===List Of Commands===+
+
+   z!help                   z!creators
+
+
+   z!updates                z!Hello
+
+
+   z!kick                   z!ban
+
+
+   z!serverinfo             z!botinfo

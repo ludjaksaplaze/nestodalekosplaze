@@ -1,0 +1,17 @@
+{
+    "name": "BrateXbot",
+  "version": "1.0.0",
+  "description": "This is bot maked by BrateX an Tom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BrateX and Tom",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "ms": "^2.1.1",
+    "snekfetch": "^4.0.4",
+    "superagent": "^3.8.3"
+  }
+}
