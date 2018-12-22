@@ -1,0 +1,42 @@
+
+                   __**BruTal Bot**__
+
+`br!ocisti`
+**Koriscenje s!ocisti (broj poruka koje zelis da izbrises)**
+------------------------------------------------------------------------
+ `br!kazi`
+**Koriscenje s!kazi nesto sto zelis da bot kaze**
+------------------------------------------------------------------------
+ `br!invite`
+**Pokazuje ti kako da dobijes bota na svom serveru.**
+------------------------------------------------------------------------
+ `br!pomoc`
+**Pokazuje Listu komanda**
+------------------------------------------------------------------------
+ `br!mutaj`
+**Koriscenje s!mutaj @example#0000 (razlog)**
+**Ova komanda zabranjuje korisniku da**
+**prica u chat i da se povezuje na**
+**glasovne kanale**
+------------------------------------------------------------------------
+ `br!izbaci`
+**Koriscenje s!izbaci @example#0000 (razlog)**
+**Ova komanda izbacuje korisnika sa server.**
+------------------------------------------------------------------------
+ `br!banuj`
+**Koriscenje s!banuj @example#0000 (razlog)**
+**Ova komanda banuje korisnika sa servera.**
+------------------------------------------------------------------------
+ `br!prijavi`
+**Koriscenje s!prijavi @example#0000 (razlog)**
+**Ova komanda prijavljuje korisnika adminima/vlasnicima.**
+------------------------------------------------------------------------
+ `br!serverinfo`
+**Ova komanda vam pokazuje info o serveru.**
+------------------------------------------------------------------------
+ `br!botinfo`
+**Ova komanda vam pokazuje bot info.**
+------------------------------------------------------------------------
+ `br!kreator`
+**Ova komanda vam pokazuje ko je kreator i zasluge.**
+ -----------------------------------------------------------------------

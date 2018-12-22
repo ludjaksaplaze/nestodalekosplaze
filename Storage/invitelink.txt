@@ -1,0 +1,9 @@
+-------------Invite Link------------------
+
+
+Klikni ovde da dobijes bota:
+
+https://discordapp.com/api/oauth2/authorize?client_id=446358923801395201&permissions=8&scope=bot
+------------------------------------------
+
+Developer - Paradajz | GFX Štenić Team Copyright © Since 2018/19 ©

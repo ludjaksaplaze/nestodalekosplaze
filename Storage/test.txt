@@ -1,0 +1,3 @@
+var embed = new Discord.RichEmbed()
+  .addField("Ovo je test", "Paradajz");
+  message.channel.send(embed);
